@@ -28,9 +28,7 @@ Figure 1. Blurred current workspace + overlay
 ```
 
 > **Notes**
-
 > - The syntax for `composite` is [overlay] - [destination] - [final product].
-
 > - `-gravity` takes `center` and compass directions as arguments (e.g. `north`, `southwest`). For more precise positioning, look up the `-geometry` flag for `imagemagick`.
 
 Lastly, `i3lock` applies the lock using the final product (blurred screenshot with overlay)
